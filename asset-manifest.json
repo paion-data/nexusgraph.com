@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nexusgraph.com/static/css/main.241951ba.css",
-    "main.js": "/nexusgraph.com/static/js/main.7c69c575.js",
+    "main.js": "/nexusgraph.com/static/js/main.12431afa.js",
     "static/media/paion-logo-white.svg": "/nexusgraph.com/static/media/paion-logo-white.47cfc925f14e2fa42e3f36f0de6ae403.svg",
     "index.html": "/nexusgraph.com/index.html",
     "main.241951ba.css.map": "/nexusgraph.com/static/css/main.241951ba.css.map",
-    "main.7c69c575.js.map": "/nexusgraph.com/static/js/main.7c69c575.js.map"
+    "main.12431afa.js.map": "/nexusgraph.com/static/js/main.12431afa.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.7c69c575.js"
+    "static/js/main.12431afa.js"
   ]
 }
