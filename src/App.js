@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import backgroundData from './data.json';
 import Stack from 'react-bootstrap/Stack';
-import paionLogoWhite from './paion-logo-white.svg'
+import paionLogoWhite from './logo.svg'
 import { BsGithub } from "react-icons/bs";
 
 import Nav from 'react-bootstrap/Nav';
