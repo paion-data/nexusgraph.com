@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nexusgraph.com/static/css/main.241951ba.css",
-    "main.js": "/nexusgraph.com/static/js/main.95c4dfc5.js",
+    "main.js": "/nexusgraph.com/static/js/main.5ee8c49f.js",
     "static/media/logo.svg": "/nexusgraph.com/static/media/logo.5960a40c55bc6e536d14f96786e6fb5a.svg",
     "index.html": "/nexusgraph.com/index.html",
     "main.241951ba.css.map": "/nexusgraph.com/static/css/main.241951ba.css.map",
-    "main.95c4dfc5.js.map": "/nexusgraph.com/static/js/main.95c4dfc5.js.map"
+    "main.5ee8c49f.js.map": "/nexusgraph.com/static/js/main.5ee8c49f.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.95c4dfc5.js"
+    "static/js/main.5ee8c49f.js"
   ]
 }
