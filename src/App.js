@@ -67,9 +67,6 @@ function App() {
           <NavDropdown title={
             <span style={{ color: 'white' }}>API</span>
           } id="basic-nav-dropdown">
-            <NavDropdown.Item href="https://rapidapi.com/paion-data-machine-learning/api/theresa3">
-              <span style={{ color: 'white' }}>RapidAPI</span>
-            </NavDropdown.Item>
             <NavDropdown.Item href="https://huggingface.co/paion-data">
               <span style={{ color: 'white' }}>Hugging Face</span>
             </NavDropdown.Item>
