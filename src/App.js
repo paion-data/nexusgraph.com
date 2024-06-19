@@ -65,26 +65,29 @@ function App() {
 
         <Nav className="justify-content-center">
           <NavDropdown title={
-            <span style={{ color: 'white' }}>API</span>
+            <span style={{ color: 'white' }}>Theresa API</span>
           } id="basic-nav-dropdown">
-            <NavDropdown.Item href="https://huggingface.co/paion-data">
-              <span style={{ color: 'white' }}>Hugging Face</span>
+            <NavDropdown.Item href="https://huggingface.co/spaces/QubitPi/graphgpt">
+              <span style={{ color: 'white' }}>GraphGPT</span>
+            </NavDropdown.Item>
+            <NavDropdown.Item href="https://huggingface.co/spaces/QubitPi/graphgpt-api-doc">
+              <span style={{ color: 'white' }}>GraphGPT API Docs</span>
             </NavDropdown.Item>
           </NavDropdown>
-          <NavDropdown title={
-            <span style={{ color: 'white' }}>Company</span>
-          } id="basic-nav-dropdown">
-            <NavDropdown.Item href="#action/3.1">
-              <span style={{ color: 'white' }}>About Us</span>
-            </NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.2">
-              <span style={{ color: 'white' }}>Careers</span>
-            </NavDropdown.Item>
-            <NavDropdown.Divider />
-            <NavDropdown.Item href="#action/3.4">
-              <span style={{ color: 'white' }}>Social</span>
-            </NavDropdown.Item>
-          </NavDropdown>
+          {/*<NavDropdown title={*/}
+          {/*  <span style={{ color: 'white' }}>Company</span>*/}
+          {/*} id="basic-nav-dropdown">*/}
+          {/*  <NavDropdown.Item href="#action/3.1">*/}
+          {/*    <span style={{ color: 'white' }}>About Us</span>*/}
+          {/*  </NavDropdown.Item>*/}
+          {/*  <NavDropdown.Item href="#action/3.2">*/}
+          {/*    <span style={{ color: 'white' }}>Careers</span>*/}
+          {/*  </NavDropdown.Item>*/}
+          {/*  <NavDropdown.Divider />*/}
+          {/*  <NavDropdown.Item href="#action/3.4">*/}
+          {/*    <span style={{ color: 'white' }}>Social</span>*/}
+          {/*  </NavDropdown.Item>*/}
+          {/*</NavDropdown>*/}
         </Nav>
 
         <div className="p-2 ms-auto text-white">
