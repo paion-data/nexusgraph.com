@@ -91,7 +91,7 @@ function App() {
         </Nav>
 
         <div className="p-2 ms-auto text-white">
-          <a href="https://github.com/paion-data/nexusgraph" style={{ color: '#ffffff' }}>
+          <a href="https://github.com/paion-data" style={{ color: '#ffffff' }}>
             <BsGithub
               size={30}
               onMouseOver={({ target }) => target.style.color = '#0C6EFD'}
@@ -99,11 +99,11 @@ function App() {
             />
           </a>
         </div>
-        <Button variant="outline-light" className="p-2" href="https://github.com/paion-data/nexusgraph">Developing</Button>
+        <Button variant="outline-light" className="p-2" href="https://github.com/paion-data">Developing</Button>
       </Stack>
 
       {/* https://stackoverflow.com/a/52284399 */}
-      <Button variant="outline-primary" size="lg" href="https://github.com/paion-data/nexusgraph" style={{
+      <Button variant="outline-primary" size="lg" href="https://github.com/paion-data" style={{
         position: 'absolute', left: '50%', top: '70%',
         transform: 'translate(-50%, -50%)'
       }}>Nexus Graph</Button>
